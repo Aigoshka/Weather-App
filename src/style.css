@@ -161,3 +161,11 @@ img {
   color: #fff5eebf;
   text-decoration: none;
 }
+.signuture {
+  font-family: "Raleway", sans-serif;
+  font-size: 14px;
+  color: #495464;
+  line-height: 1.5;
+  font-style: italic;
+  margin: 10px 0 0 430px;
+}
